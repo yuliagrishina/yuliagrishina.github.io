@@ -1,4 +1,6 @@
-This page is under construction
+I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Manfred Stede. Since April 2018, I am working on Alexa AI at the Amazon Development Center in Berlin.
+
+Currently, my research interests evolve around multilingual coreference resolution, discourse processing, and annotation technology.
 
 ## News
 In 2019, I am co-organising the <a href="https://sites.google.com/view/crac2019/"> Second Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC)</a> at NAACL, and I am reviewing for <a href="http://www.acl2019.org/EN/index.xhtml">ACL 2019</a>, <a href="https://naacl2019.org">NAACL 2019</a>, <a href="https://sites.google.com/view/crac2019/">CRAC 2019</a>, <a href="https://www.idiap.ch/workshop/DiscoMT">DiscoMT 2019</a>.
