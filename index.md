@@ -1,5 +1,8 @@
 This page is under construction
 
+## News
+In 2019, I am co-organising the <a href="https://sites.google.com/view/crac2019/"> Second Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC)</a> at NAACL, and I am reviewing for ACL 2019, NAACL 2019, CRAC 2019, DiscoMT 2019.
+
 ## Publications
 
 ### 2019
