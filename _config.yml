@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Dr. Yulia Grishina
 description: Computational Linguist
 show_downloads: false
+is_project_page: false
