@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Dr. Yulia Grishina
 description: Computational Linguist, yuliag@amazon.com
 show_downloads: false
-is_project_page: false
+github:
+  is_project_page: false
