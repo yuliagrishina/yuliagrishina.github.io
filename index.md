@@ -15,8 +15,8 @@ Ph.D. thesis, University of Potsdam, 2019. <a href="https://publishup.uni-potsda
 
 ### 2018
 
-* **Anaphora resolution with the ARRAU corpus.** \
-Massimo Poesio, Yulia Grishina, Varada Kolhatkar, Nafise Moosavi, Ina Roesiger, Adam Roussel, Fabian Simonjetz, Alexandra Uma, Olga Uryupina, Juntao Yu, and Heike Zinsmeister.\
+* **Anaphora resolution with the ARRAU corpus.**<br>
+Massimo Poesio, Yulia Grishina, Varada Kolhatkar, Nafise Moosavi, Ina Roesiger, Adam Roussel, Fabian Simonjetz, Alexandra Uma, Olga Uryupina, Juntao Yu, and Heike Zinsmeister.<br>
 In Proceedings of the First Workshop on Computational Models of Reference, Anaphora and Coreference. New Orleans, USA, June 2018. <a href="http://www.aclweb.org/anthology/W18-0702">[pdf]</a> <a href="https://aclanthology.info/papers/W18-0702/w18-0702.bib">[bibtex]</a>
 
 ### 2017
