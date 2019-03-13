@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Yulia Grishina
-description: Computational Linguist <br> yuliag@amazon.com
+description: Computational Linguist <br> <a href="mailto:yuliag@amazon.com">yuliag@amazon.com</a>
 show_downloads: false
 github:
   is_user_page: true
