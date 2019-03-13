@@ -25,7 +25,7 @@ Yulia Grishina. In Proceedings of the 3rd Workshop on Discourse in Machine Trans
 * **CORBON 2017 Shared Task: projection-based coreference resolution.**
 Yulia Grishina. In Proceedings of the 2nd Coreference Resolution Beyond OntoNotes (CORBON) Workshop. Valencia, Spain, April 2017. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W17-1507">[pdf]</a> <a href="https://aclanthology.info/papers/W17-1507/w17-1507.bib">[bibtex]</a>
 * **Toward a bilingual lexical database on connectives: Exploiting a German/Italian parallel corpus.**
-Peter Bourgonje, Yulia Grishina, and Manfred Stede. In Proceedings of the Fourth Italian Conference on Computational Linguistics. Rome, Italy, December 2017. <a href="http://ceur-ws.org/Vol-2006/paper006.pdf">[pdf]</a>
+Peter Bourgonje, Yulia Grishina, and Manfred Stede. In Proceedings of the Fourth Italian Conference on Computational Linguistics. Rome, Italy, December 2017. <a href="http://ceur-ws.org/Vol-2006/paper006.pdf">[pdf]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:_tzHTz4UTQAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXIlwMWWbq3MZxKhHex2IfmYz3QclKpWg&scisf=4&ct=citation&cd=-1&hl=de">[bibtex]</a>
 * **Multi-source projection of coreference chains: Assessing strategies and testing opportunities.**
 Yulia Grishina and Manfred Stede. In Proceedings of the 2nd Coreference Resolution Beyond OntoNotes (CORBON) Workshop. Valencia, Spain, April 2017. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W17-1506">[pdf]</a> <a href="https://aclanthology.info/papers/W17-1506/w17-1506.bib">[bibtex]</a>
 
@@ -36,7 +36,7 @@ Yulia Grishina and Manfred Stede. November 2016. <a href="https://github.com/yul
 * **Experiments on bridging across languages and genres.**
 Yulia Grishina. In Proceedings of the Coreference Resolution Beyond OntoNotes (CORBON) Workshop. San Diego, California, June 2016. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W16-0702">[pdf]</a> <a href="https://aclanthology.info/papers/W16-0702/w16-0702.bib">[bibtex]</a>
 * **Referring expressions as cohesive devices in multiple languages.**
-Yulia Grishina and Manfred Stede. In Proceedings of TextLink–Structuring Discourse in Multilingual Europe Second Action Conference, 55. Karoli Gaspar University of the Reformed Church, Budapest, Hungary, April 2016. <a href="http://textlink.ii.metu.edu.tr/sites/default/files/Conference%20Handbook_beliv.pdf#page=55">[pdf]</a>
+Yulia Grishina and Manfred Stede. In Proceedings of TextLink–Structuring Discourse in Multilingual Europe Second Action Conference, 55. Karoli Gaspar University of the Reformed Church, Budapest, Hungary, April 2016. <a href="http://textlink.ii.metu.edu.tr/sites/default/files/Conference%20Handbook_beliv.pdf#page=55">[pdf]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:lNil2KGNFMMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXIlwh2wF9vHPxAD_Xu6rEZEEsphSTJum&scisf=4&ct=citation&cd=-1&hl=de">[bibtex]</a>
 * **Anaphoricity in connectives: A case study on German.**
 Manfred Stede and Yulia Grishina. In Proceedings of the Coreference Resolution Beyond OntoNotes (CORBON) Workshop. San Diego, California, June 2016. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W16-0706">[pdf]</a> <a href="https://aclanthology.info/papers/W16-0706/w16-0706.bib">[bibtex]</a>
 
