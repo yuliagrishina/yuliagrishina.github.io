@@ -9,8 +9,8 @@ In 2019, I am co-organising the <a href="https://sites.google.com/view/crac2019/
 
 ### 2019
 
-* **Assessing the applicability of annotation projection methods for coreference relations.** 
-Yulia Grishina.
+* **Assessing the applicability of annotation projection methods for coreference relations.** \\
+Yulia Grishina.\\
 Ph.D. thesis, University of Potsdam, 2019. <a href="https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/42537/file/grishina_diss.pdf">[pdf]</a> <a href="https://publishup.uni-potsdam.de/citationExport/index/download/docId/42537/output/bibtex">[bibtex]</a> <a href="https://publishup.uni-potsdam.de/frontdoor/index/index/docId/42537">[urn]</a>
 
 ### 2018
