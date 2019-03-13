@@ -34,15 +34,15 @@ Yulia Grishina and Manfred Stede. In Proceedings of the 2nd Coreference Resoluti
 * **Parallel coreference annotation guidelines.**
 Yulia Grishina and Manfred Stede. November 2016. <a href="https://github.com/yuliagrishina/CORBON-2017-Shared-Task/blob/master/Parallel_annotation_guidelines.pdf">[pdf]</a>
 * **Experiments on bridging across languages and genres.**
-Yulia Grishina. In Proceedings of the Coreference Resolution Beyond OntoNotes (CORBON) Workshop. San Diego, California, June 2016. Association for Computational Linguistics.
+Yulia Grishina. In Proceedings of the Coreference Resolution Beyond OntoNotes (CORBON) Workshop. San Diego, California, June 2016. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W16-0702">[pdf]</a> <a href="https://aclanthology.info/papers/W16-0702/w16-0702.bib">[bibtex]</a>
 * **Referring expressions as cohesive devices in multiple languages.**
-Yulia Grishina and Manfred Stede. In Proceedings of TextLink–Structuring Discourse in Multilingual Europe Second Action Conference, 55. Karoli Gaspar University of the Reformed Church, Budapest, Hungary, April 2016.
+Yulia Grishina and Manfred Stede. In Proceedings of TextLink–Structuring Discourse in Multilingual Europe Second Action Conference, 55. Karoli Gaspar University of the Reformed Church, Budapest, Hungary, April 2016. <a href="http://textlink.ii.metu.edu.tr/sites/default/files/Conference%20Handbook_beliv.pdf#page=55">[pdf]</a>
 * **Anaphoricity in connectives: A case study on German.**
-Manfred Stede and Yulia Grishina. In Proceedings of the Coreference Resolution Beyond OntoNotes (CORBON) Workshop. San Diego, California, June 2016. Association for Computational Linguistics. 
+Manfred Stede and Yulia Grishina. In Proceedings of the Coreference Resolution Beyond OntoNotes (CORBON) Workshop. San Diego, California, June 2016. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W16-0706">[pdf]</a> <a href="https://aclanthology.info/papers/W16-0706/w16-0706.bib">[bibtex]</a>
 
 ### 2015
 
 * **Knowledge-lean projection of coreference chains across languages.**
-Yulia Grishina and Manfred Stede. In Proceedings of the 8th Workshop on Building and Using Comparable Corpora. Beijing, China, July 2015. Association for Computational Linguistics. 
+Yulia Grishina and Manfred Stede. In Proceedings of the 8th Workshop on Building and Using Comparable Corpora. Beijing, China, July 2015. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W15-3403">[pdf]</a> <a href="https://aclanthology.info/papers/W15-3403/w15-3403.bib">[bibtex]</a>
 * **Conceptual and practical steps in event coreference analysis of large-scale data.**
-Fatemeh Torabi Asr, Jonathan Sonntag, Yulia Grishina, and Manfred Stede. In Proceedings of the Second Workshop on EVENTS: Definition, Detection, Coreference, and Representation, 35–44. Baltimore, Maryland, USA, June 2014. Association for Computational Linguistics.
+Fatemeh Torabi Asr, Jonathan Sonntag, Yulia Grishina, and Manfred Stede. In Proceedings of the Second Workshop on EVENTS: Definition, Detection, Coreference, and Representation, 35–44. Baltimore, Maryland, USA, June 2014. Association for Computational Linguistics. <a href="http://aclweb.org/anthology/W14-2906">[pdf]</a> <a href="https://aclanthology.info/papers/W14-2906/w14-2906.bib">[bibtex]</a>
