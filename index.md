@@ -9,7 +9,7 @@ In 2019, I am co-organising the <a href="https://sites.google.com/view/crac2019/
 
 ### 2019
 
-* **TED Multilingual Discourse Bank (TED-MDB): aparallel corpus annotated in the PDTB style.**<br>
+* **TED Multilingual Discourse Bank (TED-MDB): A parallel corpus annotated in the PDTB style.**<br>
 Deniz Zeyrek, Amália Mendes, Yulia Grishina, Murathan Kurfali, Samuel Gibbon, Maciej Ogrodniczuk.<br>
 Language Resources and Evaluation. April 2019. <a href="https://link.springer.com/epdf/10.1007/s10579-019-09445-9?author_access_token=OHvJeC-jJFLC0Meo86hrsfe4RwlQNchNByi7wbcMAY4cA0HYd3VYboLYcy8Jto8NW1p9uTQq52cYj_QGOP05L2z_OemdighnSm9qoX_kpiqA3OAtR_PD9jIz0wnNNjrH-rmHZgD-3r2DurWj3mRvEA%3D%3D">[pdf]</a> <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:kIM3jDE3_tgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAXMRuDwDu22RJkftzw0sl-m1kvuwj1S7d&scisf=4&ct=citation&cd=-1&hl=tr">[bibtex]</a>
 
