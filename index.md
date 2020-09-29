@@ -4,7 +4,7 @@ Currently, I mostly focus on natural language understanding. My research interes
 
 ## News
 In 2020, I am co-organising the <a href="https://sites.google.com/view/crac2020"> Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC)</a> at <a href="https://coling2020.org">COLING</a>.
-I have been revieweing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
+I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
 ## Publications
 
