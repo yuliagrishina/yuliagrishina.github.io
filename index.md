@@ -10,7 +10,7 @@ I have been revieweing for NLP conferences ACL, NAACL, EMNLP, COLING, and many c
 
 ### 2020
 * **Truecasing German noisy conversational text.**<br>
-Yulia Grishina, Thomas Gueudre, Ralf Winkler.<br>
+Yulia Grishina, Thomas Gueudré, Ralf Winkler.<br>
 The 6th Workshop on Noisy User-generated Text (W-NUT) @EMNLP 2020. Virtual. November 2020.<br>
 (accepted)<br>
 
