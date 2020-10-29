@@ -13,6 +13,7 @@ I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co
 Yulia Grishina, Thomas Gueudré, Ralf Winkler.<br>
 The 6th Workshop on Noisy User-generated Text (W-NUT) @EMNLP 2020. Virtual. November 2020.<br>
 (accepted)<br>
+<a href="https://www.amazon.science/publications/truecasing-german-user-generated-conversational-text">[Amazon Science preprint]</a>
 
 ### 2019
 
