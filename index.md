@@ -1,4 +1,4 @@
-I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Manfred Stede. Currently, I work as Research Scientist for Alexa AI at Amazon Development Center in Berlin.
+Currently, I work as a Research Scientist for Alexa AI at Amazon Development Center in Berlin. Prior to that, I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Manfred Stede.
 
 ## News
 In 2021, I co-organised the <a href="https://sites.google.com/view/crac2021"> Fourth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC)</a> at <a href="https://2021.emnlp.org">EMNLP</a>.
