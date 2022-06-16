@@ -6,12 +6,20 @@ I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co
 
 ## Publications
 
+### 2022
+* **Local-to-global learning for iterative training of production SLU models on new features.**<br>
+Yulia Grishina and Daniil Sorokin.<br>
+NAACL 2022 (Industry Track).<br>
+(accepted)<br>
+<a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">[Amazon Science preprint]</a>
+
 ### 2020
 * **Truecasing German noisy conversational text.**<br>
 Yulia Grishina, Thomas Gueudré, Ralf Winkler.<br>
 The 6th Workshop on Noisy User-generated Text (W-NUT) @EMNLP 2020. Virtual. November 2020.<br>
-(accepted)<br>
 <a href="https://www.amazon.science/publications/truecasing-german-user-generated-conversational-text">[Amazon Science preprint]</a>
+<a href="https://aclanthology.org/2020.wnut-1.19.pdf">[pdf]</a>
+ <a href="https://aclanthology.org/2020.wnut-1.19.bib">[bibtex]</a>
 
 ### 2019
 
