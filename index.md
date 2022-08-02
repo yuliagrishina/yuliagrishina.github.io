@@ -9,9 +9,15 @@ I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co
 ### 2022
 * **Local-to-global learning for iterative training of production SLU models on new features.**<br>
 Yulia Grishina and Daniil Sorokin.<br>
-NAACL 2022 (Industry Track).<br>
-(accepted)<br>
+NAACL 2022 (Industry Track), Seattle, USA. July 2022.<br>
 <a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">[Amazon Science preprint]</a>
+<a href="https://aclanthology.org/2022.naacl-industry.13.pdf">[pdf]</a>
+ <a href="https://aclanthology.org/2022.naacl-industry.13.bib">[bibtex]</a>
+
+* **De-biasing training data distribution using targeted data enrichment techniques.**<br>
+Dieu Thu Le, Jose Garrido Ramas, Yulia Grishina, Kay Rottmann.<br>
+4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data, @KDD 2022. Washington DC, USA. August 2022.<br>
+(accepted)<br>
 
 ### 2020
 * **Truecasing German noisy conversational text.**<br>
