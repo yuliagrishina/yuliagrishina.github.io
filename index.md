@@ -1,7 +1,11 @@
 Currently, I work as a Research Scientist for Alexa AI at Amazon Development Center in Berlin. Prior to that, I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Manfred Stede.
 
 ## News
-In 2021, I co-organised the <a href="https://sites.google.com/view/crac2021"> Fourth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC)</a> at <a href="https://2021.emnlp.org">EMNLP</a>.
+
+* In October 2022, I will be giving a talk at the <a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">RE:WORK Deep Learning Summit</a> in Berlin. Drop by to hear more about the science behind Alexa SLU!
+* Our paper on de-biasing training data has been accepted to the 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data at KDD 2022.
+* Our paper on local-to-global learning for production SLU has been accepted to NAACL industry track.
+
 I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
 ## Publications
@@ -17,7 +21,7 @@ NAACL 2022 (Industry Track), Seattle, USA. July 2022.<br>
 * **De-biasing training data distribution using targeted data enrichment techniques.**<br>
 Dieu Thu Le, Jose Garrido Ramas, Yulia Grishina, Kay Rottmann.<br>
 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data, @KDD 2022. Washington DC, USA. August 2022.<br>
-(accepted)<br>
+(to be published)<br>
 
 ### 2020
 * **Truecasing German noisy conversational text.**<br>
