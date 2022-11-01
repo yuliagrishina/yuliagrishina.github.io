@@ -2,7 +2,8 @@ Currently, I work as a Research Scientist for Alexa AI at Amazon Development Cen
 
 ## News
 
-* In October 2022, I will be giving a talk at the <a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">RE:WORK Deep Learning Summit</a> in Berlin. Drop by to hear more about the science behind Alexa SLU!
+* I will be serving as an Area Chair for EACL 2023.
+* In October 2022, I will be a talk at the <a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">RE:WORK Deep Learning Summit</a> in Berlin. Drop by to hear more about the science behind Alexa SLU!
 * Our paper on de-biasing training data has been accepted to the 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data at KDD 2022.
 * Our paper on local-to-global learning for production SLU has been accepted to NAACL industry track.
 
@@ -21,7 +22,7 @@ NAACL 2022 (Industry Track), Seattle, USA. July 2022.<br>
 * **De-biasing training data distribution using targeted data enrichment techniques.**<br>
 Dieu Thu Le, Jose Garrido Ramas, Yulia Grishina, Kay Rottmann.<br>
 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data, @KDD 2022. Washington DC, USA. August 2022.<br>
-(to be published)<br>
+<a href="https://www.amazon.science/publications/de-biasing-training-data-distribution-using-targeted-data-enrichment-techniques">[Amazon Science preprint]</a>
 
 ### 2020
 * **Truecasing German noisy conversational text.**<br>
