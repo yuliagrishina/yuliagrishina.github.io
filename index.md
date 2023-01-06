@@ -3,9 +3,9 @@ Currently, I work as a Research Scientist for Alexa AI at Amazon Development Cen
 ## News
 
 * I will be serving as an Area Chair for EACL 2023.
-* In October 2022, I will be a talk at the <a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">RE:WORK Deep Learning Summit</a> in Berlin. Drop by to hear more about the science behind Alexa SLU!
-* Our paper on de-biasing training data has been accepted to the 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data at KDD 2022.
-* Our paper on local-to-global learning for production SLU has been accepted to NAACL industry track.
+* In October 2022, I gave a talk at the <a href="https://www.amazon.science/publications/local-to-global-learning-for-iterative-training-of-production-slu-models-on-new-features">RE:WORK Deep Learning Summit</a> in Berlin.
+* Our paper on de-biasing training data was accepted to the 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data at KDD 2022.
+* Our paper on local-to-global learning for production SLU was accepted to NAACL industry track.
 
 I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
