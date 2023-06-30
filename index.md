@@ -1,11 +1,10 @@
-Currently, I work as a Research Scientist for Alexa AI at Amazon Development Center in Berlin. Prior to that, I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Manfred Stede.
+<img width="1372" alt="image" src="https://github.com/yuliagrishina/yuliagrishina.github.io/assets/9429661/f8a589ff-decd-4e1d-80d4-9a1b4790cbab">Currently, I work as a Research Scientist for Alexa AI at Amazon Development Center in Berlin. Prior to that, I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Manfred Stede.
 
 ## News
 
+* I will be giving a talk "NLU research and practical challenges in building large-scale conversational assistants" at the Technical University of Darmstadt on 07/03/2023. 
 * I am serving as an Area Chair for <a href="https://2023.eacl.org/">EACL 2023</a>. 
 * In October 2022, I was a keynote speaker at <a href="https://www.re-work.co/">RE:WORK Deep Learning Summit</a> in Berlin, where I gave a talk on the science behind Alexa AI.
-* Our paper on de-biasing training data was accepted to the 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data at KDD 2022.
-* Our paper on local-to-global learning for production SLU was accepted to NAACL industry track.
 
 I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
