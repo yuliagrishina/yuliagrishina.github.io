@@ -14,7 +14,7 @@ I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co
 ### 2023
 * **Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage.**<br>
 Yulia Grishina, Enrico Piovano, Bei Chen, Melanie Bradford.<br>
-CIKM 2023 (Applied Research Track), Birmingham, UK. October 2023 (To Appear).<br>
+ACM International Conference on Information and Knowledge (CIKM) 2023 (Applied Research Track), Birmingham, UK. October 2023 (To Appear).<br>
 
 ### 2022
 * **Local-to-global learning for iterative training of production SLU models on new features.**<br>
