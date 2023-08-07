@@ -2,13 +2,19 @@
 
 ## News
 
-* I will be giving a talk "NLU research and practical challenges in building large-scale conversational assistants" at the Technical University of Darmstadt on 07/03/2023. 
+* Our paper "Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage" was accepted for the presentation at the Applied Research Track @ <a href="https://uobevents.eventsair.com/cmspreview/cikm2023/">CIKM 2023</a> (32% acceptance rate).
+* In July 2023, I gave a talk "NLU research and practical challenges in building large-scale conversational assistants" at <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">UKP Lab</a>, Department of Computer Science @ Technical University of Darmstadt.
 * I am serving as an Area Chair for <a href="https://2023.eacl.org/">EACL 2023</a>. 
-* In October 2022, I was a keynote speaker at <a href="https://www.re-work.co/">RE:WORK Deep Learning Summit</a> in Berlin, where I gave a talk on the science behind Alexa AI.
+* In October 2022, I was a keynote speaker at <a href="https://www.re-work.co/">RE:WORK Deep Learning Summit</a> in Berlin, where I gave a talk "Deep learning for Language Technology: The science behind digital assistants".
 
 I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
 ## Publications
+
+### 2023
+* **Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage.**<br>
+Yulia Grishina, Enrico Piovano, Bei Chen, Melanie Bradford.<br>
+CIKM 2023 (Applied Research Track), Birmingham, UK. October 2023 (To Appear).<br>
 
 ### 2022
 * **Local-to-global learning for iterative training of production SLU models on new features.**<br>
@@ -22,6 +28,8 @@ NAACL 2022 (Industry Track), Seattle, USA. July 2022.<br>
 Dieu Thu Le, Jose Garrido Ramas, Yulia Grishina, Kay Rottmann.<br>
 4th Workshop on Deep Learning Practice and Theory for High-Dimensional Sparse and Imbalanced Data, @KDD 2022. Washington DC, USA. August 2022.<br>
 <a href="https://www.amazon.science/publications/de-biasing-training-data-distribution-using-targeted-data-enrichment-techniques">[Amazon Science preprint]</a>
+<a href="https://dl.acm.org/doi/10.1145/3534678.3542896">[pdf]</a>
+
 
 ### 2020
 * **Truecasing German noisy conversational text.**<br>
