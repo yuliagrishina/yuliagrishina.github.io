@@ -2,12 +2,12 @@
 
 ## News
 
+* I will serve as a Senior Area Chair at EACL 2024.
+* I will serve as an Area Chair at LREC-COLING 2024.
 * Our paper "Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage" was accepted for the presentation at the Applied Research Track @ <a href="https://uobevents.eventsair.com/cmspreview/cikm2023/">CIKM 2023</a> (32% acceptance rate).
 * In July 2023, I gave a talk "NLU research and practical challenges in building large-scale conversational assistants" at <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">UKP Lab</a>, Department of Computer Science @ Technical University of Darmstadt.
-* I am serving as an Area Chair for <a href="https://2023.eacl.org/">EACL 2023</a>. 
-* In October 2022, I was a keynote speaker at <a href="https://www.re-work.co/">RE:WORK Deep Learning Summit</a> in Berlin, where I gave a talk "Deep learning for Language Technology: The science behind digital assistants".
 
-I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
+I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, IJCNLP-AACL, LREC, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
 ## Publications
 
