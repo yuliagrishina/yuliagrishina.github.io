@@ -2,8 +2,8 @@
 
 ## News
 
+* I serve as an Area Chair at COLING 2025.
 * I serve as a Senior Area Chair at EACL 2024.
-* I serve as an Area Chair at LREC-COLING 2024.
 * Our paper "Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage" was accepted for the presentation at the Applied Research Track @ <a href="https://uobevents.eventsair.com/cmspreview/cikm2023/">CIKM 2023</a> (32% acceptance rate).
 * In July 2023, I gave a talk "NLU research and practical challenges in building large-scale conversational assistants" at <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">UKP Lab</a>, Department of Computer Science @ Technical University of Darmstadt.
 
