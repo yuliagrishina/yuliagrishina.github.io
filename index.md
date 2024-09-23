@@ -2,15 +2,20 @@
 
 ## News
 
-* I serve as an Area Chair at COLING 2025.
-* I serve as a Senior Area Chair at EACL 2024.
+* Our paper on Leveraging Large Language Models for Automated Construction of Scientific Leaderboards has been accepted to EMNLP 2024 main track. Check out the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">Arxiv</a> version!
+* I serve as a Senior Area Chair at EACL 2024, and as an Area Chair at COLING 2025.
 * An article about our academic collaboration with the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">UKP Lab</a> from the Technical Univeristy of Darmstadt has been published in the national press! See <a href="https://www.fr.de/rhein-main/darmstadt/ki-forschung-tu-darmstadt-arbeitet-mit-amazon-alexa-zusammen-92584958.html">here</a> (in German; for English, check out <a href="https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/news_archive/news_details_en_425024.en.jsp">the UKP lab website</a>).
-* Our paper "Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage" was accepted for the presentation at the Applied Research Track @ <a href="https://uobevents.eventsair.com/cmspreview/cikm2023/">CIKM 2023</a> (32% acceptance rate).
-* In July 2023, I gave a talk "NLU research and practical challenges in building large-scale conversational assistants" at the <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp">UKP Lab</a>, Department of Computer Science @ Technical University of Darmstadt.
 
 I have been reviewing for NLP conferences ACL, NAACL, EMNLP, COLING, IJCNLP-AACL, LREC, and many co-located workshops, as well as journals Knowledge and Information Systems, Natural Language Engineering, Language Resources and Evaluation.
 
 ## Publications
+
+### 2024
+
+* **Efficient Performance Tracking: Leveraging Large Language Models for Automated Construction of Scientific Leaderboards.**<br>
+Furkan Şahinuç, Thy Thy Tran, Yulia Grishina, Yufang Hou, Bei Chen, Iryna Gurevych.<br>
+Empirical Methods in Natural Language Processing (EMNLP), Miami, USA. Novermber 2024 (To Appear).<br>
+<a href="https://arxiv.org/abs/2409.12656">[arXiv]</a>
 
 ### 2023
 * **Paraphrase Mining Under Divergence Constraints for Improving SLU Model Testing Coverage.**<br>
