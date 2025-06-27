@@ -1,4 +1,4 @@
-<img width="1372" alt="image" src="https://github.com/yuliagrishina/yuliagrishina.github.io/assets/9429661/f8a589ff-decd-4e1d-80d4-9a1b4790cbab">I am a Research Scientist for Artificial General Intelligence (AGI) at Amazon in Berlin currently working on Large Language Models (LLMs) for conversational AI. Prior to that, I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Prof. Dr. Manfred Stede.
+<img width="1372" alt="image" src="https://github.com/yuliagrishina/yuliagrishina.github.io/assets/9429661/f8a589ff-decd-4e1d-80d4-9a1b4790cbab">I am an Applied Scientist for Artificial General Intelligence (AGI) at Amazon in Berlin currently working on Large Language Models (LLMs) for conversational AI. Prior to that, I completed my PhD in the <a href="http://angcl.ling.uni-potsdam.de"> Applied Computational Linguistics Discourse Research Lab</a> (University of Potsdam), under the supervision of Prof. Dr. Manfred Stede.
 
 ## News
 
